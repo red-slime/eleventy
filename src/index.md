@@ -7,7 +7,9 @@ pagination:
   alias: posts
 ---
 
-# Posts Index
+# Welcome, Atomic 👋
+
+### View posts published on Strapi 👇
 
 <div class="container">
     {%- for post in posts -%}
